@@ -10,9 +10,8 @@
 }
 
 body {
-    padding: 20px;
-
-    border-color: rgb(67, 87, 105);
+    padding: 40px;
+    background-color:#b9e3df border-color: rgb(67, 87, 105);
     text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
 
@@ -49,7 +48,7 @@ h3 {
     text-decoration: underline;
 }
 a {
-    color: #11999E;
+    color: #3C6255;
 }
 
 .btn {
@@ -86,21 +85,41 @@ a {
 p {
     color: #18031f;
 }
-.contact-me
-{
 
+.Lastline {
+    color: #EAF6F6;
 }
-.Lastline
-{
-  color: #EAF6F6;
-}
-.skill-row{
+.skill-row {
     padding: auto;
 }
-table img{
-    height: 18vw !important ;
+table img {
+    height: 18vw !important;
     width: 18vw !important;
-  }
-  table{
-    width: 100% ;
-    }
+}
+table {
+    width: 100%;
+}
+.education table {
+    text-align: left;
+
+}
+strong {
+    color: #3C6255;
+}
+.Rewards {
+    text-align: left;
+    background-color: #F6FBF4;
+}
+.certifications {
+    background-color: #F6FBF4;
+    text-align: left;
+
+}
+.experience {
+    text-align: left;
+    background-color: #F6FBF4;
+}
+.volunteer {
+    background-color: #F6FBF4;
+    text-align: left;
+}
