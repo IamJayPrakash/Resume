@@ -42,12 +42,14 @@ h3 {
 .cloud2 {
     display: inline-block;
     position: absolute;
+    left: 250px;
+    bottom: 250px;
 }
 .cloud1 {
     display: inline-block;
     position: relative;
     margin-top: 50px;
-    margin-left: 500px;
+    margin-left: 800px;
 }
 .Under {
     text-decoration: underline;
@@ -58,32 +60,31 @@ a {
 }
 
 .btn {
-    background: #3498db;
-    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-    background-image: -o-linear-gradient(top, #3498db, #2980b9);
-    background-image: linear-gradient(to bottom, #3498db, #2980b9);
-    -webkit-border-radius: 24;
-    -moz-border-radius: 24;
-    border-radius: 20px;
-    font-family: Arial;
+    background: #11f2ee;
+    background-image: -webkit-linear-gradient(top, #11f2ee, #29544e);
+    background-image: -moz-linear-gradient(top, #11f2ee, #29544e);
+    background-image: -ms-linear-gradient(top, #11f2ee, #29544e);
+    background-image: -o-linear-gradient(top, #11f2ee, #29544e);
+    background-image: linear-gradient(to bottom, #11f2ee, #29544e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
-    padding: 10px 20px;
-    border: solid #283740 2px;
+    padding: 10px 20px 10px 20px;
     text-decoration: none;
-}
-
-.btn:hover {
-    background: #3cb0fd;
-    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  }
+  
+  .btn:hover {
+    background: #174663;
+    background-image: -webkit-linear-gradient(top, #174663, #34d942);
+    background-image: -moz-linear-gradient(top, #174663, #34d942);
+    background-image: -ms-linear-gradient(top, #174663, #34d942);
+    background-image: -o-linear-gradient(top, #174663, #34d942);
+    background-image: linear-gradient(to bottom, #174663, #34d942);
     text-decoration: none;
-}
+  }
 .footer-link {
     padding: 20px;
 
@@ -108,7 +109,7 @@ table {
 }
 .education table {
     text-align: left;
-     line-height: 2;
+    line-height: 2;
 
 }
 strong {
@@ -145,3 +146,8 @@ ul{
 ol{
     line-height=3;
 }
+hr{
+    border: dotted #EAF6F6 10px;
+border-bottom: none;
+width: 8%;
+margin: 100px auto;}
