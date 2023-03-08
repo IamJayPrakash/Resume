@@ -1,0 +1,102 @@
+.top-container {
+    background-color: #E4F9f5;
+    border: 50px;
+    border-color: rgb(25, 25, 24);
+    padding-top: 70px;
+}
+.middle-container {}
+.bottom-container {
+    background-color: #66BFBF;
+}
+
+body {
+    padding: 20px;
+
+    border-color: rgb(67, 87, 105);
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #035373;
+}
+.cloud2 {
+    display: inline-block;
+    position: absolute;
+}
+.cloud1 {
+    display: inline-block;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.Under {
+    text-decoration: underline;
+}
+a {
+    color: #11999E;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 24;
+    -moz-border-radius: 24;
+    border-radius: 20px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: solid #283740 2px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+.footer-link {
+    padding: 20px;
+
+}
+p {
+    color: #18031f;
+}
+.contact-me
+{
+
+}
+.Lastline
+{
+  color: #EAF6F6;
+}
+.skill-row{
+    padding: auto;
+}
+table img{
+    height: 23vw ;
+  }
