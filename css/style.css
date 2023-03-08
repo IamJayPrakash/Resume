@@ -4,7 +4,9 @@
     border-color: rgb(25, 25, 24);
     padding-top: 70px;
 }
-.middle-container {}
+.middle-container {
+    padding: 80px;
+}
 .bottom-container {
     background-color: #66BFBF;
 }
@@ -14,6 +16,7 @@ body {
     background-color:#b9e3df border-color: rgb(67, 87, 105);
     text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
+    
 
 }
 h1 {
@@ -21,6 +24,7 @@ h1 {
     font-size: 5.625rem;
     margin: 50px auto 0;
     color: #66BFBF;
+    line-height=2;
 }
 h2 {
     font-family: 'Montserrat', sans-serif;
@@ -33,6 +37,7 @@ h2 {
 h3 {
     font-family: 'Montserrat', sans-serif;
     color: #035373;
+    line-height=2;
 }
 .cloud2 {
     display: inline-block;
@@ -49,6 +54,7 @@ h3 {
 }
 a {
     color: #3C6255;
+    
 }
 
 .btn {
@@ -84,6 +90,7 @@ a {
 }
 p {
     color: #18031f;
+    line-height: 2;
 }
 
 .Lastline {
@@ -109,17 +116,31 @@ strong {
 .Rewards {
     text-align: left;
     background-color: #F6FBF4;
+    line-height: 2.5;
 }
 .certifications {
     background-color: #F6FBF4;
     text-align: left;
+    line-height: 2.5;
 
 }
 .experience {
     text-align: left;
     background-color: #F6FBF4;
+    line-height: 2.5;
 }
 .volunteer {
     background-color: #F6FBF4;
     text-align: left;
+    line-height: 2.5;
+}
+
+li{
+    line-height=4;
+}
+ul{
+    line-height=4;
+}
+ol{
+    line-height=3;
 }
