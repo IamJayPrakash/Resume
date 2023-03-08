@@ -98,5 +98,9 @@ p {
     padding: auto;
 }
 table img{
-    height: 23vw ;
+    height: 15vw !important ;
+    width: 19vw !important;
   }
+  table{
+    width: 100% ;
+    }
