@@ -350,7 +350,7 @@ hr {
 
 }
 
-.goup :hover {
+.goup:hover {
     background: #17baa1;
     background-image: -webkit-linear-gradient(top, #17baa1, #e9ebe8);
     background-image: -moz-linear-gradient(top, #17baa1, #e9ebe8);
