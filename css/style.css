@@ -695,3 +695,12 @@ hr {
     background-image: linear-gradient(to bottom, #e6da35, #0eeb2b);
     text-decoration: none;
   }
+
+  .goup{
+    position: fixed;
+    bottom: 5px;
+    right: 8px;
+}
+html{
+  scroll-behavior: smooth;
+  }
