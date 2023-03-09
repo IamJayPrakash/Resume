@@ -11,6 +11,10 @@
     background-color: #66BFBF;
 }
 
+ a:hover
+  {
+    color:#F94A29;
+  }
 body {
     padding: 40px;
     background-color:#b9e3df border-color: rgb(67, 87, 105);
